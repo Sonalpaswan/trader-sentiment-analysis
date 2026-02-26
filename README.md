@@ -78,3 +78,7 @@ python notebook/analysis.py
 
 Market sentiment significantly impacts trader performance and behavior.
 Using sentiment-aware risk management can improve trading outcomes.
+
+Future Improvements:
+- Predictive modeling of next-day profitability
+- Trader clustering by behavior
