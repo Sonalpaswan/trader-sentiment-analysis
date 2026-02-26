@@ -1,3 +1,4 @@
+This project was completed as part of a Data Science Intern assignment focusing on trader behavior vs market sentiment.
 # Trader Sentiment Analysis
 
 This project analyzes how market sentiment (Fear & Greed Index) impacts trader behavior and performance.
