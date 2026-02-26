@@ -1,3 +1,5 @@
+# Trader Sentiment Analysis
+
 This project was completed as part of a Data Science Intern assignment focusing on trader behavior vs market sentiment.
 # Trader Sentiment Analysis
 
