@@ -1,13 +1,14 @@
 import streamlit as st
-import pandas as pd
 
 st.title("Trader Sentiment Analysis 📊")
 
 st.write("This app analyzes trader sentiment based on Fear & Greed Index")
 
-# Example load
-df = pd.read_csv("data/your_file.csv")  # apni file ka naam dalna
+st.header("Features")
+st.write("""
+- Analyze market sentiment  
+- Study trader performance  
+- Understand trading patterns  
+""")
 
-st.write(df.head())
-
-st.bar_chart(df.select_dtypes(include=['number']))
+st.success("App successfully deployed 🚀")
